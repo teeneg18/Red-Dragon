@@ -37,9 +37,9 @@ global.region = 'India, South India, Kerala' //Country Region
 
 global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
 global.author = '😎𝙳𝙰𝚁𝙺 𝚂𝙰𝚆𝙸𝚈𝙰❯❯' //Author Name
-global.prefa = ['','!','.','😂','❤','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
+global.prefa = ['#','!','.','😂','❤','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
-global.sp = '⭔' //A Charactor In Menu!
+global.sp = '😈' //A Charactor In Menu!
 
 
 global.ig = 'https://github.com/prabhasha2006' //Github Account!
